@@ -10,7 +10,7 @@
 <body>
  <table cellspacing="20">
      <tr>
-         <td><img src="wccfspiderman6.jpg" alt="spider man"</td>
+         <img src="https://petsfoto.com/wp-content/uploads/2010/07/Dogs14.jpg" alt="spider man"        
          <td><h1>Yokesh is a student</h1>
          <p><em>founder of <strong>ALL SAFE COMPANY</strong>.</em></p>
              <p><em>he likes to play games like <strong><a href="https://en.wikipedia.org/wiki/Call_of_Duty">COD</a>,<a href="https://en.wikipedia.org/wiki/Clash_Royale"> clash royale</a></strong></em></p></td>
